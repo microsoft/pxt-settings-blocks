@@ -1,3 +1,13 @@
+# pxt-settings-blocks
+
+This repository contains the blocks for the settings extension in Microsoft MakeCode Arcade. The actual implementation of the settings can be found in [pxt-common-packages](https://github.com/microsoft/pxt-common-packages/tree/master/libs/settings).
+
+
+## Supported targets
+
+* for PXT/arcade
+* for PXT/arcade
+(The metadata above is needed for package search.)
 
 # Contributing
 

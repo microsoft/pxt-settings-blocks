@@ -1,0 +1,16 @@
+{
+    "name": "blockSettings",
+    "dependencies": {
+        "device": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "version": "0.0.2"
+}
