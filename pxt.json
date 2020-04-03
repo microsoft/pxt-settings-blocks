@@ -1,9 +1,9 @@
 {
-    "name": "blockSettings",
+    "name": "settings-blocks",
     "dependencies": {
         "device": "*"
     },
-    "description": "",
+    "description": "Blocks for saving game settings",
     "files": [
         "main.ts",
         "README.md"
